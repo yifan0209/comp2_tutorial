@@ -7,7 +7,7 @@
 実装して、ユニットテストが通るようにしてください。
 
 
-[![Actions Status](https://github.com/tpu-game-2021/comp2_tutorial/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/tpu-game-2021/comp2_tutorial/actions/workflows/c-cpp.yml)
+[![Actions Status](https://github.com/beimihu514/comp2_tutorial/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/beimihu514/comp2_tutorial/actions/workflows/c-cpp.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
